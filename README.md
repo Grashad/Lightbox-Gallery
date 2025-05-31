@@ -1,2 +1,10 @@
 # Lightbox-Gallery
-Freecodecamp project for Lightbox gallery/I spent way to much time but dayum it looks good
+https://www.freecodecamp.org/learn/full-stack-developer/lab-lightbox-viewer/build-a-lightbox-viewer [project task]
+
+It really looks quite decent :)
+
+![image](https://github.com/user-attachments/assets/64ed2e3b-12b3-498d-afe9-fc2cea43d9b4)
+
+![image](https://github.com/user-attachments/assets/89bbd54d-3e98-4c60-9b8a-c3619a97f349)
+
+![image](https://github.com/user-attachments/assets/93c8aae5-1f1f-4c38-81f0-e3df26090887)
