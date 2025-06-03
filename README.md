@@ -1,6 +1,5 @@
 # Lightbox-Gallery
-https://www.freecodecamp.org/learn/full-stack-developer/lab-lightbox-viewer/build-a-lightbox-viewer 
-[project task]
+A little project i made and it came out better than expected
 
 It really looks quite decent :)
 
